@@ -1,8 +1,9 @@
 CS-255 Portfolio Submission
 
 Artifacts
-	•	Business Requirements Document (Project One)
-	•	System Design Document (Project Two)
+
+-Business Requirements Document (Project One)
+-System Design Document (Project Two)
 
 Journal Reflection
 
