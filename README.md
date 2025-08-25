@@ -6,10 +6,17 @@
 
 ## Journal Reflection  
 
-The DriverPass project was about building a system for a driving school that wanted to help students schedule lessons, track their progress, and prep for their driving test. The client basically needed a system that worked for both students and instructors, while also giving admins a way to keep everything organized.  
+**Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?**  
+The DriverPass project was for a driving school client that wanted a system to help students schedule lessons, take practice tests, and track their progress. The goal was to design a system that worked for students, instructors, and admins while keeping everything simple and organized.  
 
-One thing I think I did really well was laying out the requirements clearly. I made sure everything tied back to the client’s goals instead of just throwing in features that sounded good. If I had to revise something, I’d go back and strengthen the non-functional requirements, like making performance goals and security expectations more specific. That would make the system easier to evaluate later.  
+**What did you do particularly well?**  
+I did well at breaking down the client’s goals into clear requirements and keeping the scope of the system focused. I made sure the features stayed tied to what the client actually needed instead of adding unnecessary extras.  
 
-When I was designing, I focused a lot on the user side. I made sure to look at their needs, like easy scheduling for students or clear lesson tracking for instructors, and then translated those into features in the design. Keeping user needs front and center matters because if the system doesn’t work for the people actually using it, then it doesn’t matter how “good” the tech side looks.  
+**If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?**  
+I would revise the non-functional requirements. I’d make them more specific by adding measurable performance and security goals. That way it’s easier to test and confirm that the system meets the expectations.  
 
-As for how I approach designing software, I like to start with the problem, break it down into what the users really need, and then map that into models and diagrams to keep it structured. Going forward, I’d keep using strategies like use cases, UML diagrams when needed, and focusing on building systems that can scale while staying simple and easy to use.
+**How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?**  
+I used the user stories and use cases to figure out what each type of user needed from the system. Students wanted easy scheduling and progress tracking, instructors needed to manage lessons, and admins needed full control. Keeping user needs in mind is important because if the system doesn’t actually work for the people using it, then it doesn’t matter how polished the design is.  
+
+**How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?**  
+I start with identifying the problem, then break it into user needs, and map those into requirements and models. I use tools like UML diagrams when needed to keep the design structured. In the future, I’ll keep focusing on tying requirements to design, using iterative improvements, and making sure systems are scalable and user-friendly.
